@@ -38,3 +38,7 @@ section{
     background-position: right;
     
 }
+.right-ok{
+    padding-right: 110px;
+    text-align: justify;
+}
